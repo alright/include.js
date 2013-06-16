@@ -1,0 +1,29 @@
+{
+  "name": "include.js",
+  "displayName": "include.js",
+  "version": "0.1.0",
+  "description": "a node based JavaScript preprocessor",
+  "keywords": [
+    "preprocessor",
+    "js",
+    "javascript"
+  ],
+  "author": "Eugene Alright <mail@alrightus.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alright/include.js.git"
+  },
+  "main": "./lib/include",
+  "bin": {
+    "include": "./bin/include"
+  },
+  "dependencies": {
+    "fquery": "~0.6.0",
+    "commander": "~1.0.1",
+    "underscore": "~1.3.3"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
