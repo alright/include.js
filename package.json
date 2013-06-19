@@ -1,7 +1,7 @@
 {
   "name": "include.js",
   "displayName": "include.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a node based JavaScript preprocessor",
   "keywords": [
     "preprocessor",
